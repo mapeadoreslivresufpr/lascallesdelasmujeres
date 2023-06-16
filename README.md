@@ -33,6 +33,7 @@ El proyecto se encuentra aún en desarrollo. La idea es ir ampliando paulatiname
 - La Habana, Cuba
 - Rosario, Argentina
 - Resistencia, Argentina
+- Curitiba, Brasil
 
 En preparación:
 - Santa Fe, Argentina
